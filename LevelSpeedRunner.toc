@@ -1,0 +1,10 @@
+## Interface: 11400
+## Title: Level Speed Runner
+## Notes: A speedrunning addon for WoW Classic Era
+## Author: Croome
+## Version: 1.0.0
+## SavedVariables: LevelSpeedRunnerDB
+
+
+LevelSpeedRunner.lua
+LevelSpeedRunner.xml
